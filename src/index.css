@@ -1,0 +1,25 @@
+.meme {
+  position: relative;
+  width: 80%;
+  margin: auto;
+}
+.meme > h2 {
+  text-align: center;
+  color: aliceblue;
+  font-weight: 500;
+  font-style: impact;
+  font-weight: bold;
+  text-transform: uppercase;
+  overflow: hidden;
+}
+.top {
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
+
+.bottom {
+  width: 100%;
+  position: absolute;
+  bottom: 0;
+}
