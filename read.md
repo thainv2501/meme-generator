@@ -1,2 +1,1 @@
-add new into git
-add new into git2
+This is my first application with react
