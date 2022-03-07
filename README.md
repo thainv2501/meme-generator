@@ -1,4 +1,5 @@
 # my-app
+npm start to run project
 Project made by react to generator a meme
 ![myapp](https://user-images.githubusercontent.com/97711636/156864457-940e0ec3-94c8-4fb7-8eb4-75d1259a7015.jpg)
 when click on gen will change another meme
