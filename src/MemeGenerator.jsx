@@ -22,7 +22,7 @@ class MemeGenerator extends Component {
     const randImg = this.state.allMemeImgs[randomNum].url;
     this.setState({ randomImg: randImg });
     console.log(randomNum);
-    console.log(this.state.randomImg);
+    console.log(this.state.allMemeImgs);
   };
   handleChange = (event) => {
     const { name, value } = event.target;
